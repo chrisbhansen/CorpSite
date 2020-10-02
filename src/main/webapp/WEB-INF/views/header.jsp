@@ -61,6 +61,9 @@
                                         <li>
                                             <a href="#">Maui, HI</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Other, OT</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
