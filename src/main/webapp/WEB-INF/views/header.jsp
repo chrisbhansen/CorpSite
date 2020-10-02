@@ -58,6 +58,9 @@
                                         <li>
                                             <a href="#">San Diego, CA</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Maui, HI</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
